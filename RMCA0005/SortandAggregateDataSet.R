@@ -1,4 +1,4 @@
-vector_data <- c(101,102,103,104,105)
+vector_data <- c(106,109,133,89104,23105)
 
 sorted_vector <- sort(vector_data)
 
